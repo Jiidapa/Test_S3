@@ -1,0 +1,14 @@
+D:\G-ABLE\Project\Test8\test_S3\bin\Debug\netcoreapp2.1\test_S3.deps.json
+D:\G-ABLE\Project\Test8\test_S3\bin\Debug\netcoreapp2.1\test_S3.runtimeconfig.json
+D:\G-ABLE\Project\Test8\test_S3\bin\Debug\netcoreapp2.1\test_S3.runtimeconfig.dev.json
+D:\G-ABLE\Project\Test8\test_S3\bin\Debug\netcoreapp2.1\test_S3.dll
+D:\G-ABLE\Project\Test8\test_S3\bin\Debug\netcoreapp2.1\test_S3.pdb
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.csprojAssemblyReference.cache
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.csproj.CoreCompileInputs.cache
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.RazorAssemblyInfo.cache
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.RazorAssemblyInfo.cs
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.AssemblyInfoInputs.cache
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.AssemblyInfo.cs
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.RazorTargetAssemblyInfo.cache
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.dll
+D:\G-ABLE\Project\Test8\test_S3\obj\Debug\netcoreapp2.1\test_S3.pdb
